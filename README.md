@@ -22,8 +22,8 @@ Diese Integration wurde mit folgendem System entwickelt und getestet:
 - **Kommunikation:** Modbus TCP  
 - **Unit ID:** 1 (Standard)  
 - **Protos PE11 TCP RTU Modbus RS-485 Umsetzer:** 1 (Standard)
-- **RS-485-1:PIN 4 = A** 1 (Standard)
-- **RS-485-1:PIN 5 = B** 1 (Standard)
+- **RS-485-1:PIN 4 = B-** 1 (Standard)
+- **RS-485-1:PIN 5 = A+** 1 (Standard)
 - **RS-485-1:PIN 6 = GND** 1 (Standard)
 
 ⚠️ **Hinweis:**  
