@@ -21,10 +21,10 @@ Diese Integration wurde mit folgendem System entwickelt und getestet:
 - **Inverter:** Growatt SPH 4600 BL-UP  
 - **Kommunikation:** Modbus TCP  
 - **Unit ID:** 1 (Standard)  
-- **Protos PE11 TCP RTU Modbus RS-485 Umsetzer:** 1 (Standard)
-- **RS-485-1:PIN 4 = B-** 1 (Standard)
-- **RS-485-1:PIN 5 = A+** 1 (Standard)
-- **RS-485-1:PIN 6 = GND** 1 (Standard)
+- **Protos PE11 TCP RTU Modbus RS-485 Umsetzer:** 
+- **RS-485-1:PIN 4 = B-** 
+- **RS-485-1:PIN 5 = A+** 
+- **RS-485-1:PIN 6 = GND** 
 
 ⚠️ **Hinweis:**  
 Die verwendeten Register können je nach Firmware oder Modell variieren.  
